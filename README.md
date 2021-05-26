@@ -3,6 +3,6 @@
 
 
 ## Используемые технологии
--Html
--Css
--Bootstrap V5
+- Html
+- Css
+- Bootstrap V5
